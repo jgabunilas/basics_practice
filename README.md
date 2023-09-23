@@ -1,1 +1,1 @@
-This repository is a sandbox for practicing  it and Github commands. It is part of the [Git and Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele on Udemy
+This repository is a sandbox for practicing  it and Github commands. It was created while working through the [Git and Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) course by Colt Steele on Udemy.
